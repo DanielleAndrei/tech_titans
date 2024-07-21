@@ -231,63 +231,62 @@ let products = [
     },
 
     
-
     /*Yogurt*/
 
     {
         id: 29,
         name: 'Peach Mango',
         image: 'best_sell3.png',
-        price: 1450
+        price: 95
     },
 
     {
         id: 30,
         name: 'Muscuvado Pearl',
         image: 'new1.jpg',
-        price: 1999
+        price: 95
     },
 
     {
         id: 31,
         name: 'Fresh Lemonade',
         image: 'new2.jpg',
-        price: 1999
+        price: 75
     },
     /*Milk & Cofee*/
     {
         id: 32,
         name: 'Blueberry',
         image: 'new3.jpg',
-        price: 1850
+        price: 95
     },
 
     {
         id: 33,
         name: 'Matcha Milk',
         image: 'p6.jpg',
-        price: 2500
+        price: 85
     },
 
     {
         id: 34,
         name: 'Strawberry',
         image: 'new5.jpg',
-        price: 2500
+        price: 85
     },
 
     {
         id: 35,
         name: 'Choco Milk',
         image: 'best_sell4.png',
-        price: 1000
+        price: 75
     },
 
     {
         id: 36,
         name: 'Mocha Cofee',
         image: 'p11.jpg',
-        price: 999
+        price: 65
     },
 
     /*Strawberry Series*/
